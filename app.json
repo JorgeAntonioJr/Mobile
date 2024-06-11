@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "RnCalculadora",
-    "slug": "RnCalculadora",
+    "name": "graceful-yellow-turkish-delight",
+    "slug": "snack-ab612232-f12b-48de-81df-67bc68da11d0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,9 +11,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
     "ios": {
       "supportsTablet": true
     },
